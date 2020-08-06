@@ -1,6 +1,6 @@
 ### Modern CV website using Html, Css and JavaScript.
 
-![Modern CV](https://github.com/codersgyan/E-commerce-website/blob/master/maxresdefault.jpg?raw=true)
+![Modern CV](https://github.com/codersgyan/modern-cv/blob/master/images/maxresdefault.jpg)
 
 
 #### Demo: https://codersgyan.github.io/modern-cv/
